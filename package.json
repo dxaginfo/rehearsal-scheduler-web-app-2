@@ -1,0 +1,12 @@
+// Simplified deployment config example (Heroku/Render)
+{
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
